@@ -1,0 +1,22 @@
+{
+  "name": "kkkkk-loader",
+  "version": "1.0.0",
+  "description": "kkk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaungkyawkyaw/kkkkkloader.git"
+  },
+  "keywords": [
+    "kkkkk-loader"
+  ],
+  "author": "kkk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaungkyawkyaw/kkkkkloader/issues"
+  },
+  "homepage": "https://github.com/kaungkyawkyaw/kkkkkloader#readme"
+}
